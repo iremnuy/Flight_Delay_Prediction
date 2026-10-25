@@ -8,7 +8,7 @@
 
 > pip install -r requirements.txt 
 
-# Then crete a data folder inside the repo and  put the 2 csvs in that folder (originally it comes under 2/ folder from kaggle)
+# Then create a data folder inside the repo and  put the 2 csvs in that folder (originally it comes under 2/ folder from kaggle)
 
 # you can regenerate the plots with ipynb file 
 
